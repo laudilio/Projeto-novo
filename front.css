@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+*  
+.titulo{ 
+    font-size: 86px;
+    font-family: "inter";
+    font-weight: 400;
+    margin-bottom: 20px;
+    display: flex;
+
+}
+
+.sonic-image{
+
+    background-image: url("./image/images.jpg");
+    width: 50vw;
+    height: 100vh;
+    background-size: cover;
+
+}
+.page-container{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
+
+ 
