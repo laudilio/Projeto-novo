@@ -23,7 +23,35 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
 
+}
+.login-container{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center ;
+    width: 50vw;
+    height: 100vh;
+
+}
+
+.input{
+    padding: 18px;
+    background-color: aliceblue;
+    width: 377px;
+    border-radius: 10px;
+    margin-bottom: 16;
+
+}
+
+.botao-login {
+
+    cursor: pointer;
+    padding: 18px;
+    background-color: blue;
+    border-radius: 10;
 }
 
 
